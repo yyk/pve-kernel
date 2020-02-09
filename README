@@ -1,3 +1,11 @@
+This is a fork from the official pve-kernel repository with AMD reset bug fix applied.
+This patch comes from level1tech forum, big thanks to folks over there.
+https://forum.level1techs.com/t/navi-reset-kernel-patch/147547
+Tested with RX5700XT.
+To use, download the deb files and `sudo dpkg -i *.deb`
+
+Original README below
+
 KERNEL SOURCE:
 ==============
 
